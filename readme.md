@@ -1,8 +1,8 @@
-# Marketing Campaign Analysis
+# Customer Segmentation: Marketing Campaign and RFM Analysis
 
 by Edycakra Immanuel Sinaga
 
-This Jupyter Notebook project titled "Marketing Campaign Analysis" focuses on analyzing a dataset containing information about customers and their responses to marketing campaigns.
+This Jupyter Notebook project titled "Customer Segmentation: Marketing Campaign and RFM Analysis" focuses on analyzing a dataset containing information about customers and their interactions with our store.
 
 ## The dataset
 
@@ -47,11 +47,12 @@ is downloaded from https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign
 
 ## The notebooks
 
-consists of 2 notebooks:
+consists of 3 notebooks:
 
 - first notebook: data preparation where the handling of missing values, duplicates, and outliers happen
 - second notebook: exploratory data analysis
+- third notebook: RFM analysis
 
 ---
 
-The project involves analyzing the marketing campaigns based on each campaign and the demographics of the customers. The analysis may include visualizations, statistical measures, and insights derived from the dataset.
+The project involves analyzing the marketing campaigns based on each campaign, the demographics of the customers, and the RFM as well. The analysis may include visualizations, statistical measures, and insights derived from the dataset.
